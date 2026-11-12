@@ -1,6 +1,6 @@
 # Plaque trouée en traction : Kt sous Abaqus/Standard (script Python paramétré)
 
-**Statut : en cours.** Étapes 1 et 2 terminées. HyperMesh et fatigue à venir.
+**Statut : en cours.** Projet en cours : modèle Abaqus paramétré d’une plaque trouée (script Python, balayage d/W, comparaison avec la Chart 4.1 de Peterson), HyperMesh et notions de fatigue à venir.
 
 ## Objectif
 [2 phrases : calculer le facteur de concentration de contrainte Kt d'une plaque

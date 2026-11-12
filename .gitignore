@@ -1,0 +1,12 @@
+   *.odb
+   *.dat
+   *.msg
+   *.sta
+   *.sim
+   *.prt
+   *.com
+   *.lck
+   *.cae
+   *.jnl
+   abaqus*.rpy
+   __pycache__/
